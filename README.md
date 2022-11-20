@@ -17,3 +17,5 @@ every character is a single byte
 - Checks around the string fitting in the allocated size before it is inserted.
 - When converting string to byte, are their two copies of the string in real memory at once?
      - Should the string be converted character by character?
+- Add way to remove keys from the map
+- Add coallese functionality to reclaim memory after strings are removed.
